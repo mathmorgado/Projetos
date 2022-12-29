@@ -1,0 +1,16 @@
+body {
+    background-color: #8F5EFF; /* 8F5EFF */
+}
+
+menu {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px;
+    margin: auto;
+    padding: 10px;
+    width: 850px;
+}
+
+h1 {
+    text-align: center;
+}

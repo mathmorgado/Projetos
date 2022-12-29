@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="images/favicon-panda.ico" type="image/x-icon">
+    <link rel="stylesheet" href="index.css">
+    <script>
+        const menu = document.getElementById("menu");
+
+        Array.from (document.getElementsByClassName("menu-items")).forEach((item, index) => {
+            item.onmouseover = () => {
+             menu.dataset.activeIndex = index;
+    }
+});
+    </script>
+    <title>❤️ Eu te amo ❤️</title>
+</head>
+<body>
+    
+    <div id="menu">
+        <div id="menu-items">
+            <a href="Declaracoes.html" class="menu-item">Declarações</a>
+            <a href="Historia.html" class="menu-item">História</a>
+            <a href="video.html" class="menu-item">Surpresa</a>
+        </div>
+        <div id="menu-background-pattern"></div>
+        <div id="menu-background-image"></div>
+    </div>
+    
+</body>
+</html>
