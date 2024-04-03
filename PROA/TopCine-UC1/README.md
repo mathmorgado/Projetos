@@ -11,19 +11,19 @@ TopCine é um projeto desenvolvido em equipe que tem como objetivo recomendar fi
 # Visualização
 ### Pagina inicial
 
-![Web 1](https://github.com/Ka1quee/TopCine/blob/main/components/images/preview/inicial.png)
+![Web 1](https://github.com/mathmorgado/Projetos/PROA/TopCine-UC-1/blob/main/components/images/preview/inicial.png)
 
 ### Destaques
-![Mobile 1](https://github.com/Ka1quee/TopCine/blob/main/components/images/preview/destaques.png)
+![Mobile 1](https://github.com/mathmorgado/Projetos/PROA/TopCine-UC-1/blob/main/components/images/preview/destaques.png)
 
 ### Categorias
-![Mobile 1](https://github.com/Ka1quee/TopCine/blob/main/components/images/preview/categorias.png) 
+![Mobile 1](https://github.com/mathmorgado/Projetos/PROA/TopCine-UC-1/blob/main/components/images/preview/categorias.png) 
 
 ### Listagem de filmes
-![Mobile 1](https://github.com/Ka1quee/TopCine/blob/main/components/images/preview/filmes-list.png)
+![Mobile 1](https://github.com/mathmorgado/Projetos/PROA/TopCine-UC-1/blob/main/components/images/preview/filmes-list.png)
 
 ### Filme
-![Mobile 1](https://github.com/Ka1quee/TopCine/blob/main/components/images/preview/filme.png)
+![Mobile 1](https://github.com/mathmorgado/Projetos/PROA/TopCine-UC-1/blob/main/components/images/preview/filme.png)
 
 
 

@@ -73,7 +73,6 @@
 
 .card-categoria:hover{
     transform: translateY(-10px);
-    
 }
 
 /* mini-card */
@@ -115,10 +114,4 @@
     height: 100%;
     width: 100%;
     border-radius: 10px;
-}
-
-
-@media only screen and (max-width: 1244px)
-{
-
 }
