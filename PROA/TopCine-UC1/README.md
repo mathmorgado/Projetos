@@ -14,16 +14,16 @@ TopCine é um projeto desenvolvido em equipe que tem como objetivo recomendar fi
 ![Web 1](https://github.com/mathmorgado/Projetos/blob/main/PROA/TopCine-UC1/components/images/preview/inicial.png)
 
 ### Destaques
-![Mobile 1](https://github.com/mathmorgado/Projetos/blob/main/PROA/TopCine-UC1/components/images/preview/taques.png)
+![Mobile 1](https://github.com/mathmorgado/Projetos/blob/main/PROA/TopCine-UC1/components/images/preview/destaques.png)
 
 ### Categorias
-![Mobile 1](https://github.com/mathmorgado/Projetos/blob/main/PROA/TopCine-UC1/components/images/preview/egorias.png) 
+![Mobile 1](https://github.com/mathmorgado/Projetos/blob/main/PROA/TopCine-UC1/components/images/preview/categorias.png) 
 
 ### Listagem de filmes
-![Mobile 1](https://github.com/mathmorgado/Projetos/blob/main/PROA/TopCine-UC1/components/images/preview/mes-list.png)
+![Mobile 1](https://github.com/mathmorgado/Projetos/blob/main/PROA/TopCine-UC1/components/images/preview/filmes-list.png)
 
 ### Filme
-![Mobile 1](https://github.com/mathmorgado/Projetos/blob/main/PROA/TopCine-UC1/components/images/preview/lme.png)
+![Mobile 1](https://github.com/mathmorgado/Projetos/blob/main/PROA/TopCine-UC1/components/images/preview/filme.png)
 
 
 
